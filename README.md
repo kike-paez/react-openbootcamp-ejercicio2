@@ -2,6 +2,7 @@
 
 ## Partiendo del siguiente componente de clase que contempla varios métodos de ciclo de vida, convertidlo en un componente funcional que realice exactamente lo mismo:
 
+'''
 import React, { Component } from 'react'
 import '../../styles/clock.scss';
 
@@ -49,3 +50,4 @@ class Clock extends Component {
    }
 }
 export default Clock;
+'''
